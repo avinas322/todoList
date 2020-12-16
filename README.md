@@ -1,6 +1,6 @@
 # Simple To Do List React application
 
-Tools used:
+## Tools used:
     1. create-react-app
     2. localStorage API - for saving the datas entered by user
     3. react-icons - to implement delete and edit icons
